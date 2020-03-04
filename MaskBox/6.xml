@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mask</folder>
+	<filename>6.jpg</filename>
+	<path>C:\Users\falahgs\Desktop\mask\6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>52</ymin>
+			<xmax>200</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>
